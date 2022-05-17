@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Banky
+- 👋 Hi, I’m Banky,
 - 👀 I’m interested in server side development!
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on...nothing at the moment. :(
