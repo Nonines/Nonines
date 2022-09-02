@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Banky, but I'm gonna make people start calling me Nonines!
-- 👀 I’m interested in server side development!
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on...nothing at the moment. :(
+<h3 align="center">Hi, hi, I'm Olasimoju Bankole, but 'Nonines' looks cooler, so!</h3>
 
-
-<!---
-Olash-Banky/Olash-Banky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  I'm currently working with Python, Django, HTML5 and CSS3, with the goal of becoming a full-time backend developer.
+      <p align="center"> I'll also be taking up the #100DaysOfCode challenge, just because I can!
+</p>
